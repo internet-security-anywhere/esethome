@@ -16,7 +16,7 @@ sitemap_url_scheme = "{link}"
 
 # conf.py
 
-html_title = "Download ESET Internet Security"
+html_title = "[KB3419] Download ESET Internet Security"
 html_short_title = "ESET Internet Security free trial"
 html_static_path = ['_static']
 html_extra_path = ['_static/google5ffeff63dcb91d99.html'] 
@@ -25,8 +25,8 @@ html_extra_path = ['_static/google5ffeff63dcb91d99.html']
 # Meta Tags Configuration
 html_context = {
     'metatags': '''
-        <meta name="description" content="Download ESET Internet Security free trial today. Full setup guide covers install, activation, and fixes for common errors on Windows 10/11.">
-        <meta name="Download ESET Internet Security free trial" content="docs, guide, setup, tutorial">
+        <meta name="description" content="Download Your ESET Internet Security free trial today. Full setup guide covers install, activation, and fixes for common errors on Windows 10/11.">
+        <meta name="[KB3419] Download ESET Internet Security free trial" content="docs, guide, setup, tutorial">
      
     '''
 }
