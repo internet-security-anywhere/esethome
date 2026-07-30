@@ -1,4 +1,4 @@
-How to Download ESET Internet Security and Activate It on Your Device
+[KB3419] Download ESET Internet Security and Activate It on Your Device
 ======================================================================
 
 If you want to **Download ESET Internet Security** today, this guide walks you through every step. You will learn how to download safely, install it on Windows 10 or 11, start a free trial, and activate your license key. Each step is written in plain language, so you won't get stuck.
